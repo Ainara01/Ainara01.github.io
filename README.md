@@ -1,6 +1,6 @@
-# Ainara01.github.io
+# About me
 
-## About me
+## Biographical information
 
 Hello! My name is Ainara, and I'm a Junior at Reed Hall.
 
